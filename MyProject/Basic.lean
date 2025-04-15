@@ -1,7 +1,13 @@
+/-
+ Copyright (c) 2023 Kevin Buzzard. All rights reserved.
+ Released under Apache 2.0 license as described in the file LICENSE.
+ Author : Kevin Buzzard
+ -/
+ 
 import Mathlib.Algebra.Group.Basic
 import Mathlib.Algebra.Group.Subgroup.Basic
-/-
 
+/-
 # Subgroups and group homomorphisms
 
 Like subsets of a type, a subgroup of a group isn't a type
